@@ -1,0 +1,20 @@
+.column{
+  float: left;
+  width: 33.33%;
+  height: 200px;
+}
+textarea{
+  height: 200px;
+  width: 500px;
+  padding: 10px;
+}
+iframe{
+  height: 500px;
+  width: 1490px;
+  margin-top: 90px;
+  text-align: center;
+
+}
+body  {
+background-image: url("https://i.gifer.com/DVx4.mp4");
+}
